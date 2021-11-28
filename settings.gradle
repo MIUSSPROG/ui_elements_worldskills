@@ -1,0 +1,2 @@
+rootProject.name = "ui_elements_worldskills"
+include ':app'
